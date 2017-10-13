@@ -1,0 +1,39 @@
+h1 {color:midnightblue;}
+
+
+body {
+	background: mintcream;
+    color: dimgray;
+    font-size: 14pt; 
+    font-family: 'Encode Sans Condensed', sans-serif;
+    margin: 20px;
+    }
+
+    
+table.style1, th { 
+	padding: 5px 20px;
+	}    
+
+table.style2 {
+	border: 1px solid black;
+	padding: 20px;
+	margin: 5px;
+	text-align: center;
+	margin-left:auto; 
+    margin-right:auto;
+	}
+
+
+
+a {color: darkviolet;
+	text-decoration: none}
+	
+a:hover {color: deeppink}
+
+
+p {
+	margin: 10px;
+	padding: 5px 80px ;
+	text-align: center;
+	}
+
